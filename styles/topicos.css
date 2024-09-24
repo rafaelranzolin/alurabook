@@ -12,6 +12,7 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    text-decoration: none;
   }
   .tópicos__item {
     margin: 2em 0.5em;
